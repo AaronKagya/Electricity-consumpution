@@ -1,0 +1,5 @@
+,Energy_kWh,Day_of_Week,Is_Weekend,Rolling_7D
+2025-01-01,3.4532894736842104,Wednesday,False,
+2025-01-02,4.382456140350877,Thursday,False,
+2025-01-03,5.571754385964912,Friday,False,
+2025-01-04,6.779999999999999,Saturday,True,
